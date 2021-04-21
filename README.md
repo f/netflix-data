@@ -1,4 +1,4 @@
-# All Crawled Netflix Genres
+# All Crawled Netflix Data can be used anywhere
 
 I've crawled all the Netflix genres.
 
