@@ -2,10 +2,10 @@
 
 I've crawled all the Netflix genres.
 
-- [2979 Genres in Turkish](./genres.tr.md) [[json]](./genres.tr.json)
+- [2979 Genres in Turkish](./tr/genres.md) [[json]](./tr/genres.json)
+- [2979 Genres in English](./en/genres.md) [[json]](./en/genres.json)
 
 # TODO
-- English version of the list
 - More genres
 - Actor/actress list.
 
