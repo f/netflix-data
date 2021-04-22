@@ -2,7 +2,7 @@
 
 I've crawled all the Netflix genres.
 
-- [2979 Genres in Turkish](./genres.tr.md) [[json]](./genres.tr.json)
+- [8877 Genres in Turkish](./genres.tr.md) [[json]](./genres.tr.json)
 
 # TODO
 - English version of the list
